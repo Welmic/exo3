@@ -1,0 +1,38 @@
+.block {
+    height: 50px;
+    width: 50px;
+    background: orange;
+    margin: 20px;
+    display: inline-block;
+    border: 2px red solid;
+}
+
+#carre2 {
+    position: relative;
+    top: 20px;
+}
+
+.carre4 {
+    position: relative;
+    left: -15px;
+}
+
+#carre6{
+    position: absolute;
+    top: 180px;
+}
+
+.container{
+    border: green 5px solid; 
+    position: relative;
+}
+
+#carre11 {
+    position: absolute; 
+    top: 10px
+}
+
+#carre9 {
+    position: absolute;
+    left: 50px
+}
